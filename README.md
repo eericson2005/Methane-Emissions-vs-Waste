@@ -10,7 +10,9 @@ If any of the links in the README don’t work, please email me at ericson@uark.
 
 <h2>Datasets Used</h2>
 
-- 
+- [Population Dataset](https://data.worldbank.org/indicator/SP.POP.TOTL)
+- [Waste Dataset](https://data.un.org/Data.aspx?d=ENV&f=variableID%3a1814)
+- [Emissions Dataset](https://www.climatewatchdata.org/ghg-emissions?end_year=2020&gases=ch4&sectors=waste&start_year=1990)
 
 <h2>Languages and Utilities Used</h2>
  
