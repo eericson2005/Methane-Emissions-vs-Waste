@@ -1,7 +1,7 @@
 <h1>Reducing Methane Emissions Through Municipal Waste Management</h1>
 
  ### [Powerpoint Presentation](https://uark-my.sharepoint.com/:p:/g/personal/ericson_uark_edu/EUmIi2RfTR5OplPJH96sLYkBAqWa6_WHrIjp1foo36tMWg?e=4kOgg7)
- ### [Report](https://uark-my.sharepoint.com/:w:/g/personal/ericson_uark_edu/EaPMpuu448ZOtRBWI8SmCYcBjfv2zflY2h4SB6KdvgVanA?e=eJRdUh)
+ ### [Report](https://github.com/eericson2005/Methane-Emissions-vs-Waste/blob/3b78c6b8d974253b840e362e62e65531630aeaf7/DASC_1003H_FTP_Team4.pdf)
  
 <h2>Description</h2>
 This project investigates the connection between methane emissions, municipal waste, and population to derive waste management solutions to high methane emissions. It was my first full experiment as a data scientist and the first team project of my freshman year. These factors resulted in a challenging yet rewarding experience as my group worked through our research.<br/>
