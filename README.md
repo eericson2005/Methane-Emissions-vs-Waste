@@ -10,7 +10,7 @@ Due to my groups nascency in programming, we opted to perform our exploratory da
 <br/>
 The excel sheets we used to search for correlations can be accessed within the README, with the customized sheets representing the areas where we did all of our EDA. A PowerPoint and a formal report are also included in the README to summarize our teams methods and findings.<br/>
 <br/>
-If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive.
+If any of the links in the README don’t work, please email me at ericson@uark.edu and I’ll adjust the permissions for the documents. The University of Arkansas will unfortunately not allow me to indefinitely share my documents publicly through the student OneDrive. Alternatively, you can just download the raw files directly. 
 
 <h2>Datasets Used</h2>
 
